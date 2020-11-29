@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news">News</string>
+    <string name="date">Date</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="hey_txt">Hey, James!</string>
+    <string name="discover">Discover Latest News</string>
+    <string name="read">5 mins read \u2022</string>
+    <string name="politics">Politics</string>
+    <string name="movie">Movies</string>
+    <string name="sports">Sports</string>
+    <string name="crime">Crime</string>
+    <string name="source_name">Source Name</string>
+    <string name="read_more">Read more</string>
+    <string name="share_now">Share Now</string>
+</resources>
